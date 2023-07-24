@@ -8,7 +8,7 @@ GET {{api}}/categorias
 POST {{api}}/categorias
 Content-Type: application/json
 
-{"nombre": "Instrumentos de viento"}
+{"nombre": "Repuesto de Bateria"}
 ################ Instrumentos: ################
 ###
 GET {{api}}/instrumentos
